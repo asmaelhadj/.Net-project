@@ -9,85 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspProject
 build_property.RootNamespace = AspProject
-build_property.ProjectDir = C:\Users\Asma\Desktop\AspProject\
+build_property.ProjectDir = C:\Users\Asma\Desktop\.Net\tp1-2-3\AspProject\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asma\Desktop\AspProject
+build_property.MSBuildProjectDirectory = C:\Users\Asma\Desktop\.Net\tp1-2-3\AspProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Customer/Create.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Customer/Edit.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Customer/Index.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Genre/Create.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Genre/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Genre/Edit.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Genre/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Genre/Index.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Genre/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Home/Index.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Home/Privacy.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Movie/Create.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Movie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Movie/Delete.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Movie/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Movie/Details.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Movie/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Movie/Edit.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Movie/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Movie/Index.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Movie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Movie/Lister.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Movie/Lister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTGlzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Shared/Error.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/_ViewImports.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/_ViewStart.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asma/Desktop/AspProject/Views/Shared/_Layout.cshtml]
+[C:/Users/Asma/Desktop/.Net/tp1-2-3/AspProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eotav1xo8r
